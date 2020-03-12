@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"my_navy.h": "c",
+			"my_navy_struct.h": "c",
+			"my_printf.h": "c",
+			"my_printf_tools.h": "c",
+			"my_tools.h": "c"
+		}
+	}
+}
